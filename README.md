@@ -33,13 +33,9 @@ Game Logic
 - 5 levels of increasing difficulty
 - Each level = world scrolls until boss reached
 - Player starts with 3 lives
-- Hit by bullet/enemy → life −1 (flash effect)
+- Hit by bullet/enemy → life −1 
 - Shield absorbs one hit before breaking
 - Game over when lives = 0
-- Mission objectives per level:
-  - Kill all enemies (100% clear bonus)
-  - Rescue civilians (sphere figures on islands, fly over to rescue)
-  - Destroy specific target (marked with pulsing ring)
 - Score multiplier for consecutive kills without getting hit
 - High score saved and shown on game over screen
 - Restart level (R)
