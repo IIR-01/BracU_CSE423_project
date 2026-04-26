@@ -2,7 +2,7 @@
 Project type: 3D game
 Game name: Sky force
 
-**A fast-paced, 3D arcade shooter built with primitive shapes to create an infinite scrolling corridor environment. It features dynamic gameplay mechanics including level-based progression, obstacles, randomized enemy AI, power-ups, and lastly a boss fight. **
+A fast-paced, 3D arcade shooter built with primitive shapes to create an infinite scrolling corridor environment. It features dynamic gameplay mechanics including level-based progression, obstacles, randomized enemy AI, power-ups, and lastly a boss fight.
 
 **Features:**
 -Infinite 3D Scrolling Corridor
