@@ -1,55 +1,30 @@
 # BracU_CSE423_project
 Project type: 3D game
-
 Game name: Sky force
 
-Player Aircraft
+**A fast-paced, 3D arcade shooter built with primitive shapes to create an infinite scrolling corridor environment. It features dynamic gameplay mechanics including level-based progression, obstacles, randomized enemy AI, power-ups, and lastly a boss fight. **
 
-Enemy Types
-
-Environment
-- Ocean floor
-- Islands
-- Clouds
-- Mountains on islands 
-- Explosions
-- Smoke trail from damaged enemies
-- Bullet trails 
-
-Gameplay Features
-
-Movement
-
-Shooting
-
-Enemies
-
-Collectibles
-
-Camera Features
-
-Upgrade System
-
-Game Logic
-- 5 levels of increasing difficulty
-- Each level = world scrolls until boss reached
-- Player starts with 3 lives
-- Hit by bullet/enemy → life −1 
-- Shield absorbs one hit before breaking
-- Game over when lives = 0
-- Score multiplier for consecutive kills without getting hit
-- High score saved and shown on game over screen
-- Restart level (R)
-- Pause (P)
-
-Cheat Mode
-
-HUD & Feedback
-- Lives shown as small plane icons
-- Score and high score
-- Star count collected
-- Weapon level indicator
-- Shield status
-- Boss health bar
-- Scroll progress bar
-- Minimap
+**Features:**
+-Infinite 3D Scrolling Corridor
+-Third-Person Tracking Camera.
+-Seamless First-Person Camera Toggle.
+-Wave-based Progression System.
+-Multiple Enemy Archetypes.
+-Dynamic Enemy AI.
+-Environmental Hazards.
+-Altitude-Aware Obstacle Collision.
+-Player Combat Mechanics.
+-Life & Penalty System.
+-Power-up Drop System.
+-Auto-fire Power-up (Green).
+-Triple-Shot Power-up (Cyan).
+-Double Points Power-up (Yellow).
+-Consecutive Kill Combo System.
+-Temporary Invincibility Shields.
+-Advanced Boss Fight.
+-Projectile Physics & Visuals.
+-Real-time Particle Engine.
+-3D Floating Text Notifications.
+-Dynamic Heads-Up Display (HUD).
+Pause Game Functionality.
+Game Over & Victory States.
