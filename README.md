@@ -27,11 +27,11 @@ Game name: Sky force
 
 -Power-up Drop System
 
--Auto-fire Power-up (Green)
+-Auto-fire Power-up
 
--Triple-Shot Power-up (Cyan)
+-Triple-Shot Power-up
 
--Double Points Power-up (Yellow)
+-Double Points Power-up
 
 -Consecutive Kill Combo System
 
