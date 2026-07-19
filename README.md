@@ -1,4 +1,4 @@
-# BracU_CSE423_project
+# SkyForce
 Project type: 3D game
 Game name: Sky force
 
